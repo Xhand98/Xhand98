@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 
-<img align="left" alt="xhand98's stats" src="https://github-readme-stats-dgd6wg318-xhand98s-projects.vercel.app" >
+<img align="left" alt="xhand98's stats" src="https://github-readme-stats-dgd6wg318-xhand98s-projects.vercel.app" />
