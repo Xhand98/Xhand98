@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 
-<img align="left" alt="xhand98's stats" src="github-readme-stats-theta-mauve.vercel.app">
+<img align="left" alt="xhand98's stats" src="https://www.github-readme-stats-theta-mauve.vercel.app/api?username=Xhand98&show_icons=true&hide_border=true" >
