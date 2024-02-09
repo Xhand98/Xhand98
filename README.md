@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/xhand98" target="blank"><img src="https://img.shields.io/twitter/follow/xhand98?logo=twitter&style=for-the-badge" alt="xhand98" /></a> </p>
 
-- 🌱 I’m currently learning **Sass/Scss**
+- 🌱 I’m currently learning 	<img src="https://img.shields.io/badge/%3C/%3E%20htmx-3D72D7?style=for-the-badge&logo=mysl&logoColor=white" alt="HTMX">
 
 - 👨‍💻 All of my projects are available at [https://github.com/Xhand98?tab=repositories](https://github.com/Xhand98?tab=repositories)
 
