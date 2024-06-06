@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning 	<img src="https://img.shields.io/badge/%3C/%3E%20htmx-3D72D7?style=for-the-badge&logo=mysl&logoColor=white" alt="HTMX">
 
-- 👨‍💻 All of my projects are available at [https://github.com/Xhand98?tab=repositories](https://github.com/Xhand98?tab=repositories)
+- 👨‍💻 All of my projects are available at [Here!](https://github.com/Xhand98?tab=repositories)
 
 - 💬 Ask me about **Html/Css**
 
