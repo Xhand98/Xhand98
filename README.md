@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Nothing :(<br>👯 I’m looking to collaborate on Anything :(<br>🌱 I’m currently learning React<br>💬 Ask me about the basics<br>⚡ Fun fact I started programming as a joke... now it isn't a  joke no more...
+🔭 I’m currently working on Nothing :(<br>👯 I’m looking to collaborate on Anything :(<br>🌱 I’m currently learning React<br>💬 Ask me about the basics<br>⚡ Fun fact I started programming as a joke... It isn't a joke anymore
 
 
 # 💻 Tech Stack:
