@@ -49,4 +49,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## Profiles Visit
 
-![Loli counter](https://count.getloli.com/get/@Xhand98?theme=asoul)
+<img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" />
