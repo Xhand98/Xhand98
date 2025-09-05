@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on School projects<br>
-👯 I’m looking to collaborate on C++ projects! <br>
-🌱 I’m currently learning C++ <br>
+👯 I’m looking to collaborate on C# projects! <br>
+🌱 I’m currently learning C# <br>
 💬 Ask me about the basics <br>
 ⚡Fun fact: I began programming as a joke... but it’s definitely not a joke anymore!
 
